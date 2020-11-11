@@ -1,0 +1,86 @@
+/*selector{
+	properties:;
+	value:;
+}*/
+
+body{background-image: url(https://wallpapercave.com/wp/wp4446237.jpg);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+	color: red; 
+	text-align: center;
+	background-color: yellow;
+	border-style: double;
+
+}
+body{
+	border: 100% solid green;
+	width: 50%;
+	height: 50%;
+
+}
+p{
+	font-family: "Times New Roman" , Times, serief;
+	text-align: center;
+
+}
+p{
+	background-color: #ffffff;
+}
+.top{
+	padding: 10px;
+	border: 5px black;
+	font-style: italic;
+	color: #0000ff;
+	border-style: double;
+}
+.xyz{
+	padding: 10px;
+	border: 5px;
+	font-style: italic;
+	color: #9c6a3b;
+	border-style: outset;
+	
+}
+.abc{
+	padding: 10px;
+	border: 5px;
+	font-style: italic;
+	color: red;
+	border-style: inset;
+}
+
+.pqr{
+	padding: 10px;
+	border: 5px;
+	font-style: italic;
+	color: brown;
+	border-style: outset;
+}
+.qwe{
+	padding: 10px;
+	border: 5px;
+	font-style: italic;
+	color: #eb5b5b;
+	border-style: inset;
+}
+
+h4{
+	font-size: 2em;
+	 text-align: center;
+	 background-color: green;
+}
+ul{
+	list-style-position: outside;
+	background: #3399ff;
+  	padding: 15px;
+  	text-shadow: 5px 2px 4px grey;
+  	font-weight: bold;
+}
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
